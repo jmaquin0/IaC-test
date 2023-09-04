@@ -13,3 +13,10 @@ para iniciar una máquina virtual con toda su configuración por defecto utilice
 tras esto use :
 
     vagrant up
+
+se debería crear una máquina virtual nueva, para acceder a ella mediante línea de comandos use 
+
+    vagrant ssh
+
+## configuración de la máquina
+
