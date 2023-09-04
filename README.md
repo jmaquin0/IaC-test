@@ -8,11 +8,8 @@ Recuerde clonar este repositorio ( `git clone` ) o crear uno nuevo para iniciar 
 
 para iniciar una máquina virtual con toda su configuración por defecto utilice la instrucción:
 
-    vagrant init -m generic\oracle9
+    vagrant init -m generic/oracle9
 
-tras esto use 
+tras esto use :
 
     vagrant up
-
- 
-
