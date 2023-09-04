@@ -3,5 +3,5 @@
 
 Vagrant.configure("2") do |config|
   config.vm.box = "generic/oracle9"
-  config.vm.hostname = "Operating_systems"
+  config.vm.hostname = "Operating-systems"
 end
